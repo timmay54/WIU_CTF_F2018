@@ -1,9 +1,9 @@
 # WIU_CTF_F2018
 
 
-## Components
+## Requirements
 
-  1. SSH
+  1. Supports SSH
   2. Runs on Pi
   3. GPIO output to light relay
   4. Simple Python program that takes in 1 argument: the flag
